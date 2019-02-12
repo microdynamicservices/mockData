@@ -678,5 +678,5 @@ data.events = [{
   "catagory": "hunt",
   "image_URL": "https://s3-us-west-1.amazonaws.com/adventure-pictures/deep_sea_fish.jpg",
   "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
-  "price": 'Number'
+  "price": 2000
 }]
